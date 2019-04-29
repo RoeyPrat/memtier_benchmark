@@ -119,7 +119,3 @@ $ memtier_benchmark --help
 ```
 
 for command line options.
-
-[![githalytics.com alpha]
-(https://cruel-carlota.gopagoda.com/54160bb33b16e558258343a1807422ff "githalytics.com")]
-(http://githalytics.com/RedisLabs/memtier_benchmark)
